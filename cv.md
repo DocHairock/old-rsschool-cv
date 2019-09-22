@@ -10,6 +10,7 @@
 2. css
 3. javascript
 4. git
+
 ## Code examples
 ```
 <script type="text/javascript">  
@@ -25,8 +26,8 @@ function msg(){
 </form>
 ```
 ## Experience
- none
+none
 ## Education
-  * htmlacademy.ru
+* htmlacademy.ru
 ## English
- A2 Pre-Intermediate
+A2 Pre-Intermediate
