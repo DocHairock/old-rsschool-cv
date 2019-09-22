@@ -12,18 +12,12 @@
 4. git
 
 ## Code examples
-```
+```javascript
 <script type="text/javascript">  
-function msg(){  
- alert("Hello Javatpoint");  
+ function msg(){  
+   alert("Hello Javatpoint");  
 }  
-</script>  
-</head>  
-<body>  
-<p>Welcome to Javascript</p>  
-<form>  
-<input type="button" value="click" onclick="msg()"/>  
-</form>
+</script>
 ```
 ## Experience
 none
