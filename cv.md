@@ -12,12 +12,10 @@
 4. git
 
 ## Code examples
-```javascript
-<script type="text/javascript">  
+```
  function msg(){  
    alert("Hello Javatpoint");  
 }  
-</script>
 ```
 ## Experience
 none
